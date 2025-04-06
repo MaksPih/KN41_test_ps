@@ -1,0 +1,9 @@
+templates/
+anime_app.py
+Pipfile
+Pipfile.lock
+.env
+myproject/
+poetry.lock
+pyproject.toml
+my_env/

@@ -4,6 +4,7 @@
 name: Python application 3_lab
 
 on:
+  workflow_dispatch:
   push:
     branches: [ "master" ]
   pull_request:

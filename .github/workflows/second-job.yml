@@ -11,4 +11,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Second step
-        run: echo "Second"
+        run: echo "Це другий Workflow ✅"

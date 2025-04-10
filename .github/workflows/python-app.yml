@@ -47,3 +47,7 @@ jobs:
     - name: Install dependencies
       run: |
         pip install flake8 pytest faker
+        
+    - name: Install dependencies
+      run: |
+        pip install flake8 pytest faker

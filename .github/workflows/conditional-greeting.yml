@@ -1,0 +1,23 @@
+# This workflow will install Python dependencies, run tests and lint with a single version of Python
+# For more information see: https://docs.github.com/en/actions/automating-builds-and-tests/building-and-testing-python
+
+name: Greet on input
+
+on:
+  workflow_dispatch:
+    inputs:
+      name:
+        description: "Введи своє ім'я"
+        required: true
+        default: "Anonymous"
+
+jobs:
+  greet:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Always shown
+        run: echo "Це звичайне повідомлення ✅"
+
+      - name: Send greeting
+        if: github.event.inputs.name != 'Executer'
+        run: echo "Привіт, ${{ github.event.inputs.name }} 👋"

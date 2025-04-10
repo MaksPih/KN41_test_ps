@@ -28,7 +28,7 @@ jobs:
         pip install pytest coverage
     - name: Install dependencies
       run: |
-        pcd 3_lab/coverage_io/
+        cd 3_lab/coverage_io/
         pytest test.py -v
     - name: Generate Report
       run: |

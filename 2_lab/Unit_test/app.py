@@ -1,5 +1,6 @@
 class Figure:
     FIGURES = ["квадрат", "прямокутник", "трикутник"]
+    
     def __init__(self, type, length) -> None:
         assert length > 0, "Довжина має бути більшою за 0!"
         assert type in self.FIGURES, "Дозволені фігури: квадрат, прямокутник, трикутник"

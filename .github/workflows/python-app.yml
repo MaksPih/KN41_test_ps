@@ -40,7 +40,7 @@ jobs:
 
     - name: Run pytest only on 2_lab
       run: |
-        pytest 2_lab/
+        pytest KN41_test_ps/2_lab/
 
     - name: Run Python script
       run: |

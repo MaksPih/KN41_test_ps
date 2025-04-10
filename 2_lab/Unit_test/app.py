@@ -13,4 +13,4 @@ class Figure:
 
     @property
     def get_figure_length(self):
-        return self.type 
+        return self.length

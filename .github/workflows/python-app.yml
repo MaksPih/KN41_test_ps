@@ -5,6 +5,8 @@ name: Python application 3_lab
 
 on:
   workflow_dispatch:
+  schedule:
+    - cron: '0 9 * * *'
   push:
     branches: [ "master" ]
   pull_request:

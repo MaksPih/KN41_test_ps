@@ -24,9 +24,6 @@
 ![Скріншот6](Photo/6screen.png)
 ![Скріншот7](Photo/7screen.png)
 ![Скріншот8](Photo/8screen.png)
-![Скріншот9](Photo/9screen.png)
-![Скріншот10](Photo/10screen.png)
-![Скріншот11](Photo/11screen.png)
 
 ---
 ### Висновок:

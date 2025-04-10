@@ -44,4 +44,4 @@ jobs:
 
     - name: Run Python
       run: |
-        python ./3_laba/lab.py
+        python ./3_lab/lab.py

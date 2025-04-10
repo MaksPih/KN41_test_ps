@@ -47,7 +47,7 @@ jobs:
     - name: Install dependencies
       run: |
         pip install flake8 pytest faker
-        
-    - name: Install dependencies
+
+    - name: Run pytest only on 2_lab
       run: |
-        pip install flake8 pytest faker
+        pytest 2_lab/

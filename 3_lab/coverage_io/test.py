@@ -31,7 +31,7 @@ class TestFigure(unittest.TestCase):
 
     def test_obj(self):
         with self.assertRaises(AssertionError):
-            Figure("коло", 1) # Спробуємо створити обєкт з недозволеними параметрими, в нас має бути помилка AssertionError
+            Figure("коло", 1)  # Спробуємо створити обєкт з недозволеними параметрими, в нас має бути помилка AssertionError
 
     
 

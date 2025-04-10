@@ -2,6 +2,7 @@ import pytest
 
 class Figure:
     FIGURES = ["квадрат", "прямокутник", "трикутник"]
+    
     def __init__(self, type, length) -> None:
         assert length > 0, "Довжина має бути більшою за 0!"
         assert type in self.FIGURES, "Дозволені фігури: квадрат, прямокутник, трикутник"
@@ -14,7 +15,7 @@ class Figure:
     
     @property
     def get_figure_length(self):
-        return self.type # робимо помилку
+        return self.type  # робимо помилку
 
 def test_app_triangle():
     """Test if we create triangle figure.

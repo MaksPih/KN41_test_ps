@@ -10,21 +10,23 @@
     4. Виконав завдання в розділі "Створення декількох Workflow або завдань"
     5. Виконав завдання в розділі "Перевірка умов для запуску завдань або кроків"
     6. Виконав завдання в розділі "Баджі та статуси"
+    [![Greet on input](https://github.com/MaksPih/KN41_test_ps/actions/workflows/conditional-greeting.yml/badge.svg)](https://github.com/MaksPih/KN41_test_ps/actions/workflows/conditional-greeting.yml)
     7. Виконав завдання в розділі "Інтеграція з Coverage (Додатково)"
 
 * Скріншоти виконаних завдань:
 
-![Скріншот1](Photo/1_photo.png)
-![Скріншот2](Photo/2_photo.png)
-![Скріншот3](Photo/3_photo.png)
-![Скріншот4](Photo/4_photo.png)
-![Скріншот5](Photo/5_photo.png)
-![Скріншот6](Photo/6_photo.png)
-![Скріншот7](Photo/7_photo.png)
-![Скріншот8](Photo/8_photo.png)
-![Скріншот9](Photo/9_photo.png)
-![Скріншот10](Photo/10_photo.png)
-![Скріншот11](Photo/11_photo.png)
+![Скріншот0](Photo/0screen.png)
+![Скріншот1](Photo/1screen.png)
+![Скріншот2](Photo/2screen.png)
+![Скріншот3](Photo/3screen.png)
+![Скріншот4](Photo/4screen.png)
+![Скріншот5](Photo/5screen.png)
+![Скріншот6](Photo/6screen.png)
+![Скріншот7](Photo/7screen.png)
+![Скріншот8](Photo/8screen.png)
+![Скріншот9](Photo/9screen.png)
+![Скріншот10](Photo/10screen.png)
+![Скріншот11](Photo/11screen.png)
 
 ---
 ### Висновок:
